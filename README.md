@@ -1,1 +1,2 @@
-# CSC-340---Assignment-4
+# CSC-340: Assignment 4
+# Student Names: Nicolas Carrillo Ordonez & Jenevieve Mendoza
