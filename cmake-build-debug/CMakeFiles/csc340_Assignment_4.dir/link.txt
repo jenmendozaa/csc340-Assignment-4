@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\csc340_Assignment_4.dir/objects.a
+C:\PROGRA~1\mingw64\bin\ar.exe qc CMakeFiles\csc340_Assignment_4.dir/objects.a @CMakeFiles\csc340_Assignment_4.dir\objects1.rsp
+C:\PROGRA~1\mingw64\bin\C__~1.EXE -g -Wl,--whole-archive CMakeFiles\csc340_Assignment_4.dir/objects.a -Wl,--no-whole-archive -o csc340_Assignment_4.exe -Wl,--out-implib,libcsc340_Assignment_4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\csc340_Assignment_4.dir\linkLibs.rsp

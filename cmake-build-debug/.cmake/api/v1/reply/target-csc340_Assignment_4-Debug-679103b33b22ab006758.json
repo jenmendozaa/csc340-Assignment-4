@@ -2,7 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "csc340_Assignment_4"
+			"path" : "csc340_Assignment_4.exe"
+		},
+		{
+			"path" : "csc340_Assignment_4.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -42,14 +45,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.2 -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++14 -fdiagnostics-color=always"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/Users/nicolascarrillo/Documents/GitHub/csc340-Assignment-4/assignment4/Part3/LinkedBagDS"
+					"path" : "C:/Users/jenev/csc340-Assignment-4/assignment4/Part3/LinkedBagDS"
 				}
 			],
 			"language" : "CXX",
@@ -85,12 +88,16 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "csc340_Assignment_4",
-	"nameOnDisk" : "csc340_Assignment_4",
+	"nameOnDisk" : "csc340_Assignment_4.exe",
 	"paths" : 
 	{
 		"build" : ".",
