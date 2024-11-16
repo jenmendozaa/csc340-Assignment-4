@@ -173,6 +173,36 @@ CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.s"
 	C:\PROGRA~1\mingw64\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jenev\csc340-Assignment-4\assignment4\Part3\quickSortChatGPT.cpp -o CMakeFiles\csc340_Assignment_4.dir\assignment4\Part3\quickSortChatGPT.cpp.s
 
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj: CMakeFiles/csc340_Assignment_4.dir/flags.make
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj: CMakeFiles/csc340_Assignment_4.dir/includes_CXX.rsp
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj: C:/Users/jenev/csc340-Assignment-4/assignment4/Part\ 2/Basic/SelectionSort.cpp
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj: CMakeFiles/csc340_Assignment_4.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jenev\csc340-Assignment-4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj"
+	C:\PROGRA~1\mingw64\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj -MF CMakeFiles\csc340_Assignment_4.dir\assignment4\Part_2\Basic\SelectionSort.cpp.obj.d -o CMakeFiles\csc340_Assignment_4.dir\assignment4\Part_2\Basic\SelectionSort.cpp.obj -c "C:\Users\jenev\csc340-Assignment-4\assignment4\Part 2\Basic\SelectionSort.cpp"
+
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.i"
+	C:\PROGRA~1\mingw64\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jenev\csc340-Assignment-4\assignment4\Part 2\Basic\SelectionSort.cpp" > CMakeFiles\csc340_Assignment_4.dir\assignment4\Part_2\Basic\SelectionSort.cpp.i
+
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.s"
+	C:\PROGRA~1\mingw64\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jenev\csc340-Assignment-4\assignment4\Part 2\Basic\SelectionSort.cpp" -o CMakeFiles\csc340_Assignment_4.dir\assignment4\Part_2\Basic\SelectionSort.cpp.s
+
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj: CMakeFiles/csc340_Assignment_4.dir/flags.make
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj: CMakeFiles/csc340_Assignment_4.dir/includes_CXX.rsp
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj: C:/Users/jenev/csc340-Assignment-4/assignment4/Part\ 2/Basic/InsertionSort.cpp
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj: CMakeFiles/csc340_Assignment_4.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jenev\csc340-Assignment-4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj"
+	C:\PROGRA~1\mingw64\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj -MF CMakeFiles\csc340_Assignment_4.dir\assignment4\Part_2\Basic\InsertionSort.cpp.obj.d -o CMakeFiles\csc340_Assignment_4.dir\assignment4\Part_2\Basic\InsertionSort.cpp.obj -c "C:\Users\jenev\csc340-Assignment-4\assignment4\Part 2\Basic\InsertionSort.cpp"
+
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.i"
+	C:\PROGRA~1\mingw64\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jenev\csc340-Assignment-4\assignment4\Part 2\Basic\InsertionSort.cpp" > CMakeFiles\csc340_Assignment_4.dir\assignment4\Part_2\Basic\InsertionSort.cpp.i
+
+CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.s"
+	C:\PROGRA~1\mingw64\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jenev\csc340-Assignment-4\assignment4\Part 2\Basic\InsertionSort.cpp" -o CMakeFiles\csc340_Assignment_4.dir\assignment4\Part_2\Basic\InsertionSort.cpp.s
+
 # Object files for target csc340_Assignment_4
 csc340_Assignment_4_OBJECTS = \
 "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part1/jacobsthal.cpp.obj" \
@@ -181,7 +211,9 @@ csc340_Assignment_4_OBJECTS = \
 "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/LinkedBagDS/Node.cpp.obj" \
 "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/linkedBagSortingMain.cpp.obj" \
 "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/mergeSortChatGPT.cpp.obj" \
-"CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.obj"
+"CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.obj" \
+"CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj" \
+"CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj"
 
 # External object files for target csc340_Assignment_4
 csc340_Assignment_4_EXTERNAL_OBJECTS =
@@ -193,11 +225,13 @@ csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/Li
 csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/linkedBagSortingMain.cpp.obj
 csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/mergeSortChatGPT.cpp.obj
 csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.obj
+csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj
+csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj
 csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/build.make
 csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/linkLibs.rsp
 csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/objects1.rsp
 csc340_Assignment_4.exe: CMakeFiles/csc340_Assignment_4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\jenev\csc340-Assignment-4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable csc340_Assignment_4.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\jenev\csc340-Assignment-4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable csc340_Assignment_4.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\csc340_Assignment_4.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -15,6 +15,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/jenev/csc340-Assignment-4/assignment4/Part3/linkedBagSortingMain.cpp" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/linkedBagSortingMain.cpp.obj" "gcc" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/linkedBagSortingMain.cpp.obj.d"
   "C:/Users/jenev/csc340-Assignment-4/assignment4/Part3/mergeSortChatGPT.cpp" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/mergeSortChatGPT.cpp.obj" "gcc" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/mergeSortChatGPT.cpp.obj.d"
   "C:/Users/jenev/csc340-Assignment-4/assignment4/Part3/quickSortChatGPT.cpp" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.obj" "gcc" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.obj.d"
+  "C:/Users/jenev/csc340-Assignment-4/assignment4/Part 2/Basic/InsertionSort.cpp" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj" "gcc" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj.d"
+  "C:/Users/jenev/csc340-Assignment-4/assignment4/Part 2/Basic/SelectionSort.cpp" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj" "gcc" "CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -296,6 +296,54 @@ assignment4/Part3/quickSortChatGPT.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\csc340_Assignment_4.dir\build.make CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.s
 .PHONY : assignment4/Part3/quickSortChatGPT.cpp.s
 
+assignment4/Part_2/Basic/InsertionSort.obj: assignment4/Part_2/Basic/InsertionSort.cpp.obj
+.PHONY : assignment4/Part_2/Basic/InsertionSort.obj
+
+# target to build an object file
+assignment4/Part_2/Basic/InsertionSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\csc340_Assignment_4.dir\build.make CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.obj
+.PHONY : assignment4/Part_2/Basic/InsertionSort.cpp.obj
+
+assignment4/Part_2/Basic/InsertionSort.i: assignment4/Part_2/Basic/InsertionSort.cpp.i
+.PHONY : assignment4/Part_2/Basic/InsertionSort.i
+
+# target to preprocess a source file
+assignment4/Part_2/Basic/InsertionSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\csc340_Assignment_4.dir\build.make CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.i
+.PHONY : assignment4/Part_2/Basic/InsertionSort.cpp.i
+
+assignment4/Part_2/Basic/InsertionSort.s: assignment4/Part_2/Basic/InsertionSort.cpp.s
+.PHONY : assignment4/Part_2/Basic/InsertionSort.s
+
+# target to generate assembly for a file
+assignment4/Part_2/Basic/InsertionSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\csc340_Assignment_4.dir\build.make CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/InsertionSort.cpp.s
+.PHONY : assignment4/Part_2/Basic/InsertionSort.cpp.s
+
+assignment4/Part_2/Basic/SelectionSort.obj: assignment4/Part_2/Basic/SelectionSort.cpp.obj
+.PHONY : assignment4/Part_2/Basic/SelectionSort.obj
+
+# target to build an object file
+assignment4/Part_2/Basic/SelectionSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\csc340_Assignment_4.dir\build.make CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.obj
+.PHONY : assignment4/Part_2/Basic/SelectionSort.cpp.obj
+
+assignment4/Part_2/Basic/SelectionSort.i: assignment4/Part_2/Basic/SelectionSort.cpp.i
+.PHONY : assignment4/Part_2/Basic/SelectionSort.i
+
+# target to preprocess a source file
+assignment4/Part_2/Basic/SelectionSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\csc340_Assignment_4.dir\build.make CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.i
+.PHONY : assignment4/Part_2/Basic/SelectionSort.cpp.i
+
+assignment4/Part_2/Basic/SelectionSort.s: assignment4/Part_2/Basic/SelectionSort.cpp.s
+.PHONY : assignment4/Part_2/Basic/SelectionSort.s
+
+# target to generate assembly for a file
+assignment4/Part_2/Basic/SelectionSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\csc340_Assignment_4.dir\build.make CMakeFiles/csc340_Assignment_4.dir/assignment4/Part_2/Basic/SelectionSort.cpp.s
+.PHONY : assignment4/Part_2/Basic/SelectionSort.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -326,6 +374,12 @@ help:
 	@echo ... assignment4/Part3/quickSortChatGPT.obj
 	@echo ... assignment4/Part3/quickSortChatGPT.i
 	@echo ... assignment4/Part3/quickSortChatGPT.s
+	@echo ... assignment4/Part_2/Basic/InsertionSort.obj
+	@echo ... assignment4/Part_2/Basic/InsertionSort.i
+	@echo ... assignment4/Part_2/Basic/InsertionSort.s
+	@echo ... assignment4/Part_2/Basic/SelectionSort.obj
+	@echo ... assignment4/Part_2/Basic/SelectionSort.i
+	@echo ... assignment4/Part_2/Basic/SelectionSort.s
 .PHONY : help
 
 

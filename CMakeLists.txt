@@ -15,4 +15,8 @@ add_executable(csc340_Assignment_4
     assignment4/Part3/LinkedBagDS/Node.h
     assignment4/Part3/linkedBagSortingMain.cpp
     assignment4/Part3/mergeSortChatGPT.cpp
-    assignment4/Part3/quickSortChatGPT.cpp)
+    assignment4/Part3/quickSortChatGPT.cpp
+        "assignment4/Part 2/Basic/SelectionSort.cpp"
+        "assignment4/Part 2/Basic/SelectionSort.h"
+        "assignment4/Part 2/Basic/InsertionSort.cpp"
+        "assignment4/Part 2/Basic/InsertionSort.h")
