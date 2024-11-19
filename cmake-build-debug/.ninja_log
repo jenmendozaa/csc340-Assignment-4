@@ -1,5 +1,5 @@
 # ninja log v6
 7	3779	1731479186332950847	CMakeFiles/csc340_Assignment_4.dir/assignment4/Part1/jacobsthal.cpp.o	d6ff8fc5a5c582e2
 8	3787	1731479186334607314	CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/mergeSortChatGPT.cpp.o	c11a9b0b93fefe28
-6	435	1731479190302182572	CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.o	5f29eb6d6b5000fd
 6	487	1731479190301708998	CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/linkedBagSortingMain.cpp.o	8c3cd63480a6b3e5
+6	435	1731479190302182572	CMakeFiles/csc340_Assignment_4.dir/assignment4/Part3/quickSortChatGPT.cpp.o	5f29eb6d6b5000fd
